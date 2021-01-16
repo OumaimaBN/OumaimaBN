@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Oumaima 👋
 
 ## About me
 - 😄I am a final year student at IMT LILLE DOUAI, interested in data science and machine learning
